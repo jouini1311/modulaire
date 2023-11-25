@@ -23,8 +23,8 @@
         </repository>
     </distributionManagement>
     <scm>
-        <url>https://github.com/jouini1311/modulaire.git</url>
-        <connection>scm:git:https://github.com/jouini1311/modulaire.git</connection>
+        <url>git@github.com:jouini1311/modulaire.git/url>
+        <connection>scm:git:git@github.com:jouini1311/modulaire.git</connection>
     <tag>testing-1.5</tag>
   </scm>
 </project>
