@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>testing</artifactId>
-    <version>1.15</version>
+    <version>1.16-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>m1</module>
@@ -22,10 +22,8 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:https://github.com/jouini1311/modulaire.git</connection>
-        <developerConnection>scm:git:https://github.com/jouini1311/modulaire.git</developerConnection>
-        <url>https://github.com/jouini1311/modulaire.git</url>
-    <tag>testing-1.15</tag>
-  </scm>
+        <connection>scm:git:ssh://git@github.com:jouini1311/modulaire.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:jouini1311/modulaire.git</developerConnection>
+    </scm>
 
 </project>
