@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>testing</artifactId>
-    <version>1.11-SNAPSHOT</version>
+    <version>1.11</version>
     <packaging>pom</packaging>
     <modules>
         <module>m1</module>
@@ -26,5 +26,6 @@
         <connection>scm:git:https://github.com/jouini1311/modulaire.git</connection>
         <developerConnection>scm:git:https://github.com/jouini1311/modulaire.git</developerConnection>
         <url>https://github.com/jouini1311/modulaire.git</url>
+    <tag>testing-1.11</tag>
   </scm>
 </project>
