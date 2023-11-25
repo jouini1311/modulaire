@@ -23,8 +23,7 @@
         </repository>
     </distributionManagement>
     <scm>
-        <url>git@github.com:jouini1311/modulaire.git</url>
-        <connection>scm:git:git@github.com:jouini1311/modulaire.git</connection>
+        <connection>scm:git:ssh://git@github.com:jouini1311/modulaire.git</connection>
     <tag>testing-1.6</tag>
   </scm>
 </project>
