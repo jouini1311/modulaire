@@ -16,6 +16,11 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <distributionManagement>
+        <repository>
+            <id>nexus</id>
+        </repository>
+    </distributionManagement>
     <scm>
         <connection>scm:git:ssh:git@github.com:jouini1311/modulaire.git</connection>
         <developerConnection>scm:git:ssh:git@github.com:jouini1311/modulaire.git</developerConnection>
