@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>testing</artifactId>
-    <version>1.18-SNAPSHOT</version>
+    <version>1.18</version>
     <packaging>pom</packaging>
     <modules>
         <module>m1</module>
@@ -24,6 +24,7 @@
     <scm>
         <connection>scm:git:git@github.com:jouini1311/modulaire.git</connection>
         <developerConnection>scm:git:git@github.com:jouini1311/modulaire.git</developerConnection>
+    <tag>testing-1.18</tag>
   </scm>
 
 </project>
