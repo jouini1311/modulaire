@@ -26,5 +26,12 @@
         <connection>scm:git:ssh://github.com/modulaire.git</connection>
         <developerConnection>scm:git:ssh://github.com/modulaire.git</developerConnection>
   </scm>
+    <dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>untitled</artifactId>
+            <version>1.5-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
